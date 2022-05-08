@@ -1,2 +1,2 @@
 # golang-basics
-Golang Structures, Data Types and base Data Structures
+Golang Statements, Data Types and base Data Structures
