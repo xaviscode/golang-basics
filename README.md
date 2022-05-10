@@ -7,7 +7,7 @@ Go is becoming a very popular, fast, and easy-to-use programming language that h
 Consider that this repository is only for learning purposes, and note that all the code above was specifically created and organized to keep track of your learning process. So make sure everything works for you, and feel free to go through all the code, avoiding the guidelines if you see fit.
 
 ## Getting Started
-Make sure to have the language installed on your computer. To install Go go to the [official site](https://go.dev/dl/){:target="\_blank"} and follow the steps provided depending on your OS.
+Make sure to have the language installed on your computer. To install Go go to the [official site](https://go.dev/dl/) and follow the steps provided depending on your OS.
 
 ## Goals
 Learn the syntax and most of the possibilities you can do with Go.
